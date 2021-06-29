@@ -1,0 +1,8 @@
+resourses/brick.png
+resourses/wall.png
+resourses/grass.png
+resourses/water.png
+resourses/base.png
+resourses/explosion.png
+resourses/big_explosion.png
+resourses/spawn.png
